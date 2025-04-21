@@ -1,0 +1,44 @@
+[
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "year": "1925",
+        "genre": "Fiction",
+        "read": true
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "year": "1960",
+        "genre": "Fiction",
+        "read": true
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "year": "1949",
+        "genre": "Dystopian",
+        "read": true
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "year": "1813",
+        "genre": "Romance",
+        "read": true
+    },
+    {
+        "title": "Hamza ki book",
+        "author": "Hamza",
+        "year": "2024",
+        "genre": "love",
+        "read": true
+    },
+    {
+        "title": "7",
+        "author": "7",
+        "year": "7",
+        "genre": "7",
+        "read": false
+    }
+]
